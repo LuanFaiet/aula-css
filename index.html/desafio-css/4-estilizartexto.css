@@ -1,0 +1,60 @@
+ @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&family=Protest+Riot&display=swap');
+
+ @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+ h1 {
+     color: #20F1F5;
+     /* troca a cor do texto */
+     font-size: 100px;
+     /* troca o tamanho do texto*/
+     font-family: 'Protest Riot', sans-serif;
+     /*troca a font do texto , ir no google font*/
+     font-style: oblique;
+     /* estiliza o texto*/
+     letter-spacing: 30px;
+     /*estpaçamento entre as letras*/
+     text-decoration: underline;
+     /*para decorar o texto*/
+     text-shadow: 10px 10px 10px blue;
+     /*sombra do texto, ela tem 4 configurações , 1 sombra horizontal, 2 sombra vertical, 3 se é mais esfumaçada ou mais solida, 4 cor da sombra*/
+ }
+
+ p {
+     font-size: 30px;
+     color: chocolate;
+     font-weight: 250;
+     /*se a letra é mais fina ou mais grossa*/
+     font-family: 'Indie Flower', cursive;
+     font-style: italic;
+     line-height: 30px;
+     /* altura das linhas*/
+     word-spacing: 40px;
+     /* espaçamento entre as palavras*/
+     text-align: center;
+     /* para alinhar o texto*/
+     text-transform: uppercase;
+     /*nmuda as letras para maiusculo , minusculo, etc... */
+     text-decoration: overline;
+     /* para decorar o texto*/
+text-shadow: 10px 10px 10px orangered;
+
+ }
+
+
+ #input1, .button1 {background: red;}
+
+ #input2{background: yellow;}
+
+ #massa {background: red;}
+
+ #tabela{background-color: blue;}
+
+ #cabecalho {background: yellow;}
+
+ #tabela2{background: pink;font-size: 10px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+ .class, #lista{background: green;
+text-align: center;
+font-style: italic;}
+
+#l2{background: red; font-size: 20px;}

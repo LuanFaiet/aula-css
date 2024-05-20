@@ -1,0 +1,21 @@
+/* aula sobre seletor class */
+
+/* para usar class no css usamos o . e o nome da class que foi colocada la no HTML. */
+
+
+/* ex <h1 class=" nome da class que foi no html">......</h1> */
+
+/* então recaptulando... quando for por a id no css usamos # e quando for a class usamos o pontooo. */
+
+/* /* podemos chamar a class e outras id ou class usando a virgula.nomedaclass, nome de outra class ou id */
+
+/* css= folha de estilo em cascata */
+
+/* codigo RGB = red green blue usamos para colocar as cores , de 0 a 255  */
+
+.texto, #button{color:#66F013;}
+
+#titulodocss{ background: blue}
+
+#input {background: #F0A190;}
+

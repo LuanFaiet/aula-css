@@ -1,0 +1,34 @@
+h1{color: red;
+    font-size: 50px;
+
+}
+
+h3{
+color: orangered;
+}
+
+p{color: blueviolet;
+font-size: 20px;
+text-shadow: 10px 15px 12px red;
+letter-spacing: 10px;
+line-height: 30px;
+word-spacing: 10px;
+text-align: justify;
+text-transform: capitalize;
+text-decoration: underline;
+
+
+}
+
+
+#estudar {color: blue;}
+
+.lista2{color: red;}
+
+#email {color: red;}
+
+
+
+
+
+

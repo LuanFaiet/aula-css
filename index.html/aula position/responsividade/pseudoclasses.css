@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul::before{
+    content: "++";
+}
+ul::after{
+    content: "🥳🥸😎 ";
+    
+}
+
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: yellow;
+}
+
+
+
+.conteiner :not(span) {
+
+    color: orange;
+
+}
+
+li:nth-child(4) {
+    color: pink;
+}
+
+input {
+border: 1px solid red;
+    border-color: red;
+    color: orange;
+}
+
+input::placeholder {
+    color: blue;
+}
+#link2{
+    font-size: 50px;
+}
+
+#link2:visited{
+    color: pink;
+}
+#link2:hover{
+    color: blue;
+}
+
+#input2:active {
+    width: 100px;
+    height: 100px;
+    
+}
